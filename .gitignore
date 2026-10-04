@@ -1,0 +1,16 @@
+# Virtual environments & Cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Scripts & temporary assets
+*.py
+*.png
+*.jpg
+figures/
+report_preview_page_*.png
+extracted_img_*
+unlox_*.png
+diabetes.csv
+20522493-AIML_MP_Logistic_Regression_Sep(1).pdf
